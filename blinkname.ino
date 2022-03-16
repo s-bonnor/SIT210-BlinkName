@@ -9,9 +9,19 @@ void setup() {
 }
 
 void loop() {
+    /* First Name
     dit(); dit(); dah(); delay(unitDelay*3); // S
     dit(); dah(); delay(unitDelay*3); // A
     dah(); dah(); delay(unitDelay*3); // M
+    delay(unitDelay*4);
+    */
+    /* Last Name */
+    dah(); dit(); dit(); dit(); delay(unitDelay*3); // B
+    dah(); dah(); dah(); delay(unitDelay*3); // O
+    dah(); dit(); delay(unitDelay*3); // N
+    dah(); dit(); delay(unitDelay*3); // N
+    dah(); dah(); dah(); delay(unitDelay*3); // O
+    dit(); dah(); dit(); delay(unitDelay*3); // R
     delay(unitDelay*4);
 }
 
